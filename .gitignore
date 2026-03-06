@@ -11,7 +11,11 @@ Thumbs.db
 .env
 .env.*
 *.env
-*secret*
+.secrets/
+secrets/
+*.secret
+*.secrets
+secret.*
 *.pem
 *.key
 *.cert
