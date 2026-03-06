@@ -1,0 +1,61 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Secrets & Environment variables (Crucial for preventing API key leaks)
+.env
+.env.*
+*.env
+*secret*
+*.pem
+*.key
+*.cert
+*.crt
+id_rsa
+id_dsa
+id_ed25519
+id_ecdsa
+credentials.json
+keys.json
+client_secret.json
+auth.json
+
+# Local Configuration
+local.settings.json
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Directories (just in case code gets added later)
+node_modules/
+jspm_packages/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+build/
+dist/
+
+# Editor directories and files
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.swp
+*.swo
+.history/
