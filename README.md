@@ -1,7 +1,6 @@
 # prompt-store
-<<<<<<< HEAD
 
-This is just where I place some prompt snippest for better prompting
+This is not a serious project repository; it is mainly a collection of unsorted prompt snippets and working notes.
 
 ## techPicturesToStory
 
@@ -103,6 +102,3 @@ Structure:
 
 If you want, I can also generate a third prompt template specialized for multi-agent orchestration, planning loops, and tool-use architectures (AutoGPT-style systems, supervisor agents, task planners, tool routers, etc.).
 That one is extremely useful for designing real agent frameworks.
-=======
-This is not a serious project! It's a selection of unsorted information
->>>>>>> c57dd5e (Update README to reflect project as unsorted information collection)
