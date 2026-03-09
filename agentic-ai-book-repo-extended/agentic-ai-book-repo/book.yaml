@@ -1,0 +1,25 @@
+book:
+  title: "{{WORKING_TITLE}}"
+  subtitle: "{{WORKING_SUBTITLE}}"
+  subject: "Agentic AI"
+  audience: "{{PRIMARY_AUDIENCE}}"
+  purpose: "{{BOOK_PURPOSE}}"
+  exclusions: "{{BOOK_EXCLUSIONS}}"
+  tone: "technical, precise, publication-oriented"
+  status: "draft"
+  version: "0.1.0"
+  language: "en"
+  repository_intent: "long-form technical book project"
+
+author:
+  name: "{{AUTHOR_NAME}}"
+  affiliation: "{{AFFILIATION}}"
+  contact: "{{CONTACT}}"
+
+production:
+  glossary_required: true
+  references_required: true
+  appendices_required: true
+  index_placeholder_required: true
+  review_mode: "strict"
+  manuscript_format: "Markdown"

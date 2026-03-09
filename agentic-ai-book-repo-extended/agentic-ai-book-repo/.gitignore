@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build output
+dist/*.md
+dist/*.txt
+dist/*.html
+dist/*.pdf
+dist/*.epub
+dist/*.docx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local notes
+*.tmp
+*.bak

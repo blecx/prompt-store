@@ -1,0 +1,3 @@
+# Foreword
+
+{{FOREWORD_TEXT}}

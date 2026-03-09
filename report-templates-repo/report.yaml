@@ -1,0 +1,12 @@
+report:
+  title: "<Report Title>"
+  subtitle: "<Subtitle or Clarifying Scope>"
+  author: "<Author Name>"
+  organization: "<Organization>"
+  version: "0.1-draft"
+  date: "<YYYY-MM-DD>"
+  classification: "<Public/Internal/Confidential/Restricted>"
+  audience: "<Primary Audience>"
+  objective: "<Decision or Outcome This Report Supports>"
+  report_type: "<Technical Assessment / Strategy / Architecture Review / Vendor Analysis / Risk Assessment / Other>"
+  source_mode: "<Fresh Research / Deep Research / Hybrid / Internal Notes / Interview-Based>"

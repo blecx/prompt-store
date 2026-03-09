@@ -1,0 +1,1 @@
+Render the result inline in the chat. Do not return file links, downloadable artifacts, or attachments. If inline rendering is not possible, say so before answering.
