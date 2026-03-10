@@ -97,7 +97,7 @@ For your agentic AI architecture handbook contest, the best workflow is:
 - **Step 1:** Run slides through Template 1
     → extract structured knowledge.
 
-    Prompt: Prompt1-step3.md
+    Prompt: prompt1-step3-orig-Merge Analysis into an Agentic AI System Architecture Developer Handbook.md
 
 - **Step 2:** Run architecture slides through Template 2
     → produce deeper system architecture interpretation.
@@ -105,10 +105,12 @@ For your agentic AI architecture handbook contest, the best workflow is:
 
   - the ordered slide analysis
   - the architecture-focused slide analysis
-    Prompt: prompt2-step3.md
+    Prompt: prompt2-step3-orig-Merge into an Architecture-Protocol-Evaluation Handbook.md
 
     Multi-Agent Orchestration / Tool-Use Architecture. This template is designed for real agent framework design.
-    Prompt_ promp2-step3-ori.md
+
+    Prompt: prompt2-step3-orig-Merge into an Architecture-Protocol-Evaluation Handbook.md
+    Don't use prompt: promp2-step3.md
 
 - **Step 3:** Merge both outputs into a unified handbook-grade document.
     Merge into a Multi-Agent Orchestration and Tool-Use Design Reference. Paste this into a new chat after you  provide the outputs from:
@@ -117,26 +119,23 @@ For your agentic AI architecture handbook contest, the best workflow is:
   - the architecture-focused interpretation
   - the orchestration / planning / tool-use analysis
 
-    Prompt: prompt2-step3.md
+    Prompt: prompt3-step3-orig-Developer Handbook Synthesis for Agentic AI Systems.md
 
-    Prompt: prompt3-step3-ori.md
+    Don't use Prompt: prompt2-step3.md
 
 Merge both outputs into:
 
-  ```prompt
-  Agentic AI System Architecture
-  Developer Handbook
-  ```
+- Agentic AI System Architecture
+- Developer Handbook
+Prompt: prompt3-step3-orig-Developer Handbook Synthesis for Agentic AI Systems.md
 
 Structure:
 
-  ```prompt
-  Part I   Foundations
-  Part II  Architecture Patterns
-  Part III Protocols
-  Part IV  Evaluation
-  Part V   Safety & Operations
-  ```
+- Part I   Foundations
+- Part II  Architecture Patterns
+- Part III Protocols
+- Part IV  Evaluation
+- Part V   Safety & Operations
 
 - Merge Analysis into an Agentic AI System Architecture Developer Handbook
   Use the prompt of the same name.
@@ -145,7 +144,7 @@ Structure:
    This template is designed for real agent framework design.This template is designed for real agent framework design.
   **Paste into a new chat**
 
-- Step 4 Implementation Blueprint Prompt.
+Step 4 Implementation Blueprint Prompt.
 You can paste it directly into a new chat after you have the Step 3 Developer Handbook Synthesis output.
 
 This prompt is designed to turn the handbook into a real implementation-oriented Python architecture specification for a local-first, multi-agent, multi-model agent framework.
@@ -171,7 +170,7 @@ Primary restore entry inside the archive:
 - `step4-stage-archive/context/RESTORE_CONTEXT_PROMPT.md`
 - `step4-stage-archive/artifacts/Python_Agent_Framework_Implementation_Blueprint.md`
 
-Archive is found in state-step4
+Archive is found in state-step4 directory. So you can take a fresh chat and load that state of step4. And then continue with step 5. This avoids to run every time through the whole process when dsigining a new agentic system!
 
 ## Step 5 — Repository Scaffold Generation
 
@@ -203,3 +202,5 @@ That one is extremely useful for designing real agent frameworks.
 
 If you want, I can also generate a third prompt template specialized for multi-agent orchestration, planning loops, and tool-use architectures (AutoGPT-style systems, supervisor agents, task planners, tool routers, etc.).
 That one is extremely useful for designing real agent frameworks.
+
+- Step 5 — Comprehensive Prompt Agent Framework Repository Scaffold Generator
