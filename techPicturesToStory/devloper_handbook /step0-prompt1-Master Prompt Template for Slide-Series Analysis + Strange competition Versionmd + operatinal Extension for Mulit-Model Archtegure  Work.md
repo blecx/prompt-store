@@ -418,3 +418,5 @@ If anything is uncertain:
 - do not guess
 
 Now wait for the uploaded image set and then execute this task exactly.
+
+Save the result in 01_ordered_slide_analysis.md and provide a download link

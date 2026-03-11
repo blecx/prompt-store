@@ -237,3 +237,5 @@ Use headings exactly as specified in the handbook structure.
 Do not include chain-of-thought reasoning.
 
 Provide only the final structured handbook.
+
+Save output as 03_agentic_ai_system_architecture_handbook.md and provide download link

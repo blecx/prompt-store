@@ -499,3 +499,5 @@ Before finishing the answer verify:
 If the analysis is incomplete, continue the process until every slide is covered.
 
 Then provide the final document.
+
+Save output as 02_architecture_protocol_evaluation_analysis.md and provide download link
